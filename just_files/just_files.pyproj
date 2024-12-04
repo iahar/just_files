@@ -24,6 +24,7 @@
     <Compile Include="just_files.py" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="xml_file.xml" />
     <Content Include="xml_fi.xml" />
     <Content Include="xml_f.xml" />
   </ItemGroup>
