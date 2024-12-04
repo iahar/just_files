@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="1.0">
 	<channel>
-		<title>The Blog</title>
-		<link> https://github.com/iahar </link>
 		<item>
-			<description>post</description>
+			<title>post</title>
 		</item>
 	</channel>
 </rss>
