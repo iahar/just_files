@@ -2,6 +2,7 @@
 <rss version="1.0">
 	<channel>
 		<title>The Blog</title>
+		<link> https://github.com/iahar </link>
 		<item>
 			<description>post</description>
 		</item>
