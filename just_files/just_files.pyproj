@@ -24,6 +24,7 @@
     <Compile Include="just_files.py" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="xml_fi.xml" />
     <Content Include="xml_f.xml" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
