@@ -2,11 +2,11 @@
 <rss version="2.0">
 	<channel>
 		<title>Admin Password</title>
-		<link>https://secure.example.com/admin</link>
+		<link>http://challenge01.root-me.org/web-serveur/ch29 </link>
 		<description>Доступ к защищенной зоне администратора</description>
 		<item>
 			<title>Administrator Credentials</title>
-			<link>https://secure.example.com/admin</link>
+			<link>http://challenge01.root-me.org/web-serveur/ch29 </link>
 			<description>Password: Admin@1234</description>
 		</item>
 	</channel>
